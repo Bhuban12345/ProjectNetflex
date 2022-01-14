@@ -1,0 +1,255 @@
+body{
+    margin: 1px;
+    padding: 1px;
+    background-color: aquamarine;
+    @media screen and (max-width:1000px) and (max-width:200px){
+        
+    }
+}
+.container{
+    width: auto;
+    height: 500px;
+    border: 3px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: black;
+    background-image: url("https://hcdevilsadvocate.com/wp-content/uploads/2019/01/netflix-background-9-900x506.jpg");
+}
+#t1{
+    width: auto;
+    height: 50px;
+    margin-bottom: 150px;
+    border: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#t1e2{
+    width: 570px;
+    height: 45px;
+    border: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#e2e1{
+    color: white;
+}
+#img1{
+    width: 80px;
+    height: 45px;
+}
+#t2{
+    width: auto;
+    height: 250px;
+    margin-top: 30;
+    border: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+    align-items: center;
+    
+}
+#t2e1{
+    margin-top: 2px;
+}
+.container2{
+    width: auto;
+    height: 500px;
+    border: 1px ;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#c2t1{
+    width:600px;
+    height: 180px;
+    border: 1px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#c2t2{
+    width: 600px;
+    height: 280px;
+    border: 1px;
+}
+#c2img{
+    width: 550px;
+    height: 280px;
+}
+.container3{
+    width: auto;
+    height: 500px;
+    border: 1px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+#c3t1{
+    width:600px;
+    height: 180px;
+    border: 1px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#c3t2{
+    width: 600px;
+    height: 300px;
+    border: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#c3img{
+    width: 500px;
+    height: 300px;
+}
+.container4{
+    width: auto;
+    height: 500px;
+    border: 1px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#c4t1{
+    width:600px;
+    height: 180px;
+    border: 1px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#c4t2{
+    width: 600px;
+    height: 300px;
+    border: 1px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#c4img{
+    width: 500px;
+    height: 300px;
+}
+.container5{
+    width: auto;
+    height: 500px;
+    border: 1px ;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#c5t1{
+    width:600px;
+    height: 180px;
+    border: 1px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#c5t2{
+    width: 600px;
+    height: 300px;
+    border: 1px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#c5img{
+    width: 500px;
+    height: 300px;
+}
+.container6{
+    width: auto;
+    height: 550px;
+    border: 1px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+#c6t1{
+    width: 500px;
+    height: 80px;
+    border: 1px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#c6t2{
+    width: 500px;
+    height: 340px;
+    border: 1px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.accordion {
+    background-color: rgb(51, 47, 47);
+    color: rgb(253, 249, 249);
+    cursor: pointer;
+    padding: 18px;
+    
+    width: 100%;
+    border:#fff;
+    padding-top: 2rem;
+    text-align: left;
+    outline: none;
+    font-size: 30px;
+    transition: 0.4s;
+    height: 50px;
+    padding: 10px 30px;
+    border-bottom: 20px;
+    margin-bottom: 6px;
+    /* display: flex; */
+    flex-direction: column;
+    flex-basis: 20%;
+}
+#c6t3{
+    width: auto;
+    height: 80px;
+    border: 1px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ 
+ 
+
